@@ -1,0 +1,14 @@
+{
+    "name": "ishiharatakashi/wp-debugging",
+    "require": {
+        "monolog/monolog": "^1.17",
+        "symfony/var-dumper": "^2.8",
+        "maximebf/debugbar": "^1.10"
+    },
+    "authors": [
+        {
+            "name": "1shiharat",
+            "email": "akeome1369@gmail.com"
+        }
+    ]
+}
