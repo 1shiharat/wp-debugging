@@ -1,5 +1,5 @@
 {
-    "name": "ishiharatakashi/wp-debugging",
+    "name": "1shiharat/wp-debugging",
     "require": {
         "monolog/monolog": "^1.17",
         "symfony/var-dumper": "^2.8",
