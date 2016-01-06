@@ -5,6 +5,7 @@
         "symfony/var-dumper": "^2.8",
         "maximebf/debugbar": "^1.10"
     },
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "1shiharat",
